@@ -26,7 +26,7 @@ These titles / roles are awarded based on total points earned.
 | C Rank | 250+ total points | Green |
 | B Rank | 500+ total points | Blue |
 | A Rank | 1,000+ total points | Purple |
-| S Rank | 2,500 total points | Orange |
+| S Rank | 2,500+ total points | Orange |
 | SS Rank | 5,000+ total points | Yellow |
 | SSS Rank | 7,500+ total points | Red |
 | EX Rank | 10,000+ total points | Black |
@@ -335,7 +335,7 @@ These titles / ranks relate to interaction with the ```#bounty-hub``` / ```#the-
 
 | Title / Role | Requirement | Colour |
 | :----------- | :---- | :---- |
-| Scout | Obtain 10+ Bounty Points | Blue |
+| Scout | Obtain 25+ Bounty Points | Blue |
 | Bounty Hunter | Obtain 50+ Bounty Points | Blue |
 | Bounty Hunter | Obtain 100+ Bounty Points | Black |
 | Star of Extinction | Obtain the site achievement "Star of Extinction" | Blue |
@@ -385,7 +385,7 @@ These titles / ranks relate to interaction with the CE community, or to Communit
 In addition to the total points-based ranks above (see: [the Rank section](#rank) above), "Rank+" titles/roles are available for those that engage with a wide range of aspects available on CE.
 
 The Discord roles have a gradient effect attached to them; show off to your friends!  
-As with rank/colour roles on the Discord, if you prefer the a lower-tier "Rank+" colour than the one you have unlocked, you may request to have your preferred gradient colour shown instead of your highest.
+As with rank/colour roles on the Discord, if you prefer a lower-tier "Rank+" colour than the one you have unlocked, you may request to have your preferred gradient colour shown instead of your highest.
 
 The requirements for these titles are set out below; each new tier's requirements build on previous. For completeness, the full cumulative requirements for a given rank are listed out.
 
