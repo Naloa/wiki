@@ -50,7 +50,7 @@ A game is a candidate for being added as long as the game presents enough challe
 include the tier, category, and point estimate for the game along with the suggested objectives and which achievements / in game feats should be included. Optionally, you're free to include a suggested name and icon along with each objective.
 
 ### Details to consider
-- You must have completed ALL or AT LEAST ONE relevant challenge/objective in the game for your suggestion to be valid. This is meant both as a confirmation that you know about the game and its value, and because otherwise it's no different than suggesting it for potentials.
+- You must have completed AT LEAST ONE, but preferably ALL, relevant challenges/objectives in the game for your suggestion to be valid. This is meant both as a confirmation that you know about the game and its value, and because otherwise it's no different than suggesting it for potentials.
 - Check that the game isn't in the rejected list ([Rejection list](https://docs.google.com/spreadsheets/d/1NeWYzeRi7NDrm9jvJKZgjrB6LLSjKskD3yNO0SYOVpk/edit#gid=664460343)). If it is, then check its rejection date and the reason. If you're confident that the circumstances have changed or it's been wrongly classified, you may proceed.
 
 ### Games that WILL be rejected
@@ -69,7 +69,7 @@ Games on Early Access are subject to some scrutiny. It'd be better if **their co
 Games that have online-only content are allowed too, but your points are not guaranteed to stay if they're taken down.
 
 ### Extras
- If you are recommending a low Tier 1 game (5 points total), consider trying one of the free games from the respective category as a point of comparison. These games are free and generally at the lower end of the point of entry for a game on the list. Make sure you are confident the game you are suggesting is harder than the ones listed below.
+ If you are recommending a low Tier 1 game (5 points total), consider trying one of the free games from the respective category as a point of comparison. These games are generally at the lower end of the point of entry for a game on the list. Make sure you are confident the game you are suggesting is harder than the ones listed below.
 
 Flem (platformer) | Laserboy (action) | Neon Boost (First Person) | Prologue for a Vacant Kingdom (Bullet Hell) | Project Rhombus (Arcade) | Peggle Extreme (Strategy)
 
@@ -116,13 +116,13 @@ Include pertinent details as to why the game did not feel sufficiently difficult
 
 From there, the Rep(s) will seek further feedback, according to this general guidance:
 - If there a low number of clearers, all clearers to be pinged and asked for input (hours, perspective on the level of challenge, etc)
-- If there a high number of clearers, active users may be pinged for input initially. If there a general consensus, no further pings to be required.
+- If there a high number of clearers, active users may be pinged for input initially. If there is a general consensus, no further pings to be required.
 
 The number of clearers to ping will be at the discretion of the Rep handling the matter, but shouldn't be less than 10-20% of the total number.
  
 The next step will require a level of judgement, but may take one of several forms:
 - Game removal/maintenance if there broad consensus on that outcome
-- Seeking further input from clearers not pinged initially, if there a sufficient user base
+- Seeking further input from clearers not pinged initially, if there is a sufficient user base
 - Application of the "Site Eligibility Under Dispute" information tag the game should there be limited available input, or conflicting viewpoints
   - The thread will remain open, and further input from new clearers will be required.
   - The number of new clearers' input should be informed by the user base (eg: a game with 3 clearers may only need 1 additional user's input, whilst a game with 50 might require 3)
@@ -140,20 +140,20 @@ This post will outline some basic concepts to keep in mind when flagging a game 
 In general, there are three similar, but slightly distinct concepts:
 
 ### Poorly Coded 
-- The game suffers from frequent crashes that inhibit the player from completing the challenge, and the crashes are spontaneous and unavoidable. This needs to be independent of hardware limitations, and the crashes should be observable by two or more people.,
-- The game suffers from various bugs that interfere with normal gameplay. Examples of this might include: frequently getting stuck in walls, falling through the floor, losing control of your character, mechanics not working properly or as intended often enough to be problematic, etc. If a bug occurs a handful of times, that may not be cause for concern, but if it rises to a level where it frequently interrupts a person's ability to play the game or complete a challenge, it may warrant removing the game.,
+- The game suffers from frequent crashes that inhibit the player from completing the challenge, and the crashes are spontaneous and unavoidable. This needs to be independent of hardware limitations, and the crashes should be observable by two or more people;
+- The game suffers from various bugs that interfere with normal gameplay. Examples of this might include: frequently getting stuck in walls, falling through the floor, losing control of your character, mechanics not working properly or as intended often enough to be problematic, etc. If a bug occurs a handful of times, that may not be cause for concern, but if it rises to a level where it frequently interrupts a person's ability to play the game or complete a challenge, it may warrant removing the game.
 
 ### Poorly Designed 
-- The game has a myriad of exploits that result in the challenge being made trivial. This is indicative of lack of testing, and if the exploits are numerous enough, then the game was just not designed well. Exploits exist in many games, and the existence of a couple will not be an issue normally, we can just work around them for verification. However, if exploits are required or strongly recommended in being able to complete the challenge, or the game has so many that figuring out which to allow and which not to becomes a topic of discussion, the game is probably too complicated to be worthwhile. Quit to menu is a common enough oversight that it is not considered an exploit worth removing a game over, nor would save scumming.,
-- The game has a challenge that is an obvious meme or was designed specifically to not be possible, or extremely unreasonable. An example of this might include a game where it is otherwise well made, but has a challenge to hit the same frame perfect jump every 10 seconds for an hour straight. In this case, if the game has other reasonable challenges, the one challenge in question may be excluded or made into a CO, and the rest of the challenges can be preserved.,
+- The game has a myriad of exploits that result in the challenge being made trivial. This is indicative of lack of testing, and if the exploits are numerous enough, then the game was just not designed well. Exploits exist in many games, and the existence of a couple will not be an issue normally, we can just work around them for verification. However, if exploits are required or strongly recommended in being able to complete the challenge, or the game has so many that figuring out which to allow and which not to becomes a topic of discussion, the game is probably too complicated to be worthwhile. Quit to menu is a common enough oversight that it is not considered an exploit worth removing a game over, nor would save scumming;
+- The game has a challenge that is an obvious meme or was designed specifically to not be possible, or extremely unreasonable. An example of this might include a game where it is otherwise well made, but has a challenge to hit the same frame perfect jump every 10 seconds for an hour straight. In this case, if the game has other reasonable challenges, the one challenge in question may be excluded or made into a CO, and the rest of the challenges can be preserved.
 
 ### Low Effort
-- The game is an obvious asset flip with barely any development put into it. The assets may be stock, the physics are poorly made or clunky, and the developer or series is well known for consistently pushing out similar quality games.,
-- The game is identical to an already existing more popular game without adding in any kind of novelty. Getting Over It spawned a lot of clones, but in many cases, there are enough differences that they can be considered to have added enough novelty to be worthwhile. This will obviously be subject to context.,
-- The game has little to no redeemable gameplay qualities. While this one is highly subjective, there are likely to be cases every so often where the game is just extremely bad all around despite being novel and coded properly. Let this point be reserved for admins and unanimous rep decision. A game simply not being fun is not nearly a justifiable enough reason for removing from the site.,
+- The game is an obvious asset flip with barely any development put into it. The assets may be stock, the physics are poorly made or clunky, and the developer or series is well known for consistently pushing out similar quality games;
+- The game is identical to an already existing more popular game without adding in any kind of novelty. Getting Over It spawned a lot of clones, but in many cases, there are enough differences that they can be considered to have added enough novelty to be worthwhile. This will obviously be subject to context;
+- The game has little to no redeemable gameplay qualities. While this one is highly subjective, there are likely to be cases every so often where the game is just extremely bad all around despite being novel and coded properly. Let this point be reserved for admins and unanimous rep decision. A game simply not being fun is not nearly a justifiable enough reason for removing from the site.
 
 ### What to do
-While the above are guidelines, the decision to remove or block a game OR objective from the site will still come down to a consensus among the reps for the category in which the game belongs. Judgment will still be necessary on a case by case basis. A game may also suffer from one or more of the above issues, and still be allowed on the site, again being a decision made by the reps or admins.
+While the above are guidelines, the decision to remove or block a game/objective from the site will still come down to a consensus among the reps for the category in which the game belongs. Judgement will still be necessary on a case-by-case basis. A game may also suffer from one or more of the above issues, and still be allowed on the site, again being a decision made by the reps or admins.
 
 To initiate the process of removal:
 - Make a thread pointing out the issues, and list which of the above categories it would fall under;
