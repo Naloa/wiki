@@ -44,7 +44,7 @@ Cheating can encompass any of the following from a CE perspective:
 
 Effectively, any action that may lead to an objective on the site being earned without having accomplished it in good faith.
 
-CE operate on the assumption that these kinds of foul play are not utilised. If you are found to have cheated it there may be severe consequences.
+CE operate on the assumption that these kinds of foul play are not utilised. If you are found to have cheated there may be severe consequences.
 
 ::: tip Past Cheating
 CE recognises that users go through many phases in life, and may have cheated achievements (or similar) in the past for a number of reasons.
