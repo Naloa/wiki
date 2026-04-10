@@ -7,7 +7,7 @@ A complete list of all site achievements can be found on the relevant game page 
 
 #### Categories of site achievements
 
-This page aims to document the site achievements as at 2025/12/22 (when this page last edited), and categorise them for ease of access.  
+This page aims to document the site achievements as at 2025/12/22 (when this page was last edited), and categorise them for ease of access.  
 
 These are split into the following categories of achievement:
 
@@ -25,7 +25,7 @@ To be eligible for these achievements, please follow the below instructions:
 
 3. Launch "A CHALLENGE" for a few minutes so it shows in your 'recently played' games list on your Steam profile.
 
-4. Update your CE profile - the site should should then associate your the page with your CE profile.
+4. Update your CE profile - the site should should then associate the page with your CE profile.
 
 
 
@@ -88,7 +88,7 @@ At present there are 11 site achievements relating to completing objectives (but
 
 ## Retro games
 
-At present there are 12 site achievements relating to Casino rolls.
+At present there are 12 site achievements relating to Retro rolls.
 
 | Icon | Name | Description |
 | :-- | :-- | :--|
