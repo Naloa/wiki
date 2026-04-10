@@ -111,7 +111,7 @@ The current list of supported genres, and a brief description, are detailed belo
 | Site Achievement | 'Super' | The game contains the word 'Super' |
 | Site Achievement | Video Loop {X} | The game is used on the CE homepage, in Loop {X} |
 | Site Info | CE: Baseline Game | The game is considered a 'baseline' 5 point game. No game in the relevant category may be easier than this game. |
-| Site Info | CE: CErtified | [TBD] The value of the game is locked; sufficient discussion and clears support the value, and it will not change. |
+| Site Info | CE: Certified | [TBD] The value of the game is locked; sufficient discussion and clears support the value, and it will not change. |
 | Site Info | CE: Curated | The game is curated on the [CE Steam Curator](https://store.steampowered.com/curator/36185934-Challenge-Enthusiasts/) |
 | Site Info | CE: Duplicate | A game with multiple versions/listings on the CE site (Eg: Crimzon Clover, or life is not auto) |
 | Site Info | CE: Has CO(s) | The game has [Community Objectives](/general/details/objectives#community-objectives) |
