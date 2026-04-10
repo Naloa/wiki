@@ -12,7 +12,7 @@ This is a TEMPORARY placeholder for objective definitions - for the Admin team's
 
 Objectives usually consist in one or several challenges grouped together under a game. Completing its requirements will award you the objective if you both can prove it and own the game.
 
-We follow the **DIRE**, which stands for "Developer Intended, Recognized, or Encouraged" as an overarching criteria for a point-valued objective.
+We adhere to **DIRE**, which stands for "Developer Intended, Recognized, or Encouraged" as an overarching criteria for a point-valued objective.
 
 [[toc]]
 
@@ -29,7 +29,7 @@ Examples include:
 - Tracked collectibles (the collectibles must be permanent, a mode that terminates itself under criteria other than intentional manual deletion are exempt).
 
 ### Difficulty order
-Objectives in games tend to be ordered top-to-bottom, with the intended progression meant to be starting from the bottom and climbing up.
+Objectives in games tend to be organised vertically, with the intended progression meant to be starting from the bottom and climbing up.
 In some rare cases, objectives may be grouped according to modes, but the objectives inside these modes will be sorted as previously described.
 
 ## Secondary Objectives
