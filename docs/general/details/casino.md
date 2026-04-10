@@ -214,7 +214,7 @@ The two participants may choose how to split the games between them. Eg:
 Player A could complete 1 game and Player B completes 3 games.  
 Player A could complete all 4 games.
 
-Player A and B cannot split the objectives within a single game, however; all POs in a given game much be completed by a single person.
+However, Player A and B cannot split the objectives within a single game; all POs in a given game must be completed by a single person.
 :::
 
 -----
